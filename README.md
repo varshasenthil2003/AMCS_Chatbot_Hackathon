@@ -36,7 +36,7 @@ This project is a chatbot designed to answer user queries based on uploaded PDF 
    ```
 2. Set up the `.env` file: Create a `.env` file in the project root directory with the following content:
    ```
-   COHERE_API_KEY='hD9q34pROX0UkvqVps0pA...'  # Replace with your actual API key
+   COHERE_API_KEY='Replace with your actual API key'  
    ```
 
 ## Usage
